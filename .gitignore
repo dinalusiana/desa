@@ -1,0 +1,4 @@
+upload_file/*
+backup
+/*.sql
+.DS_Store
